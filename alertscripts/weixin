@@ -1,0 +1,1 @@
+/usr/bin/php /usr/lib/zabbix/alertscripts/weixin_api/send.php  "$1" "$2"  "$3"
